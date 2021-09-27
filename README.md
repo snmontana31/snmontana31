@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @snmontana31
+- 👋 Hi, I’m Samantha Montana.
 - 👀 I’m interested in reading and medical billing and coding. Also web design.
-- 🌱 I’m currently learning Medical Billing and Coding, Web Development and Health Service Coordination
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Medical Billing and Coding and Web Development.
+- 💞️ I’m looking to collaborate on Both.
 - 📫 How to reach me snmontana30@icloud.com
 
 <!---
